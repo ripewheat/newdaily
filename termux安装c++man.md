@@ -1,0 +1,1 @@
+pkg install linux-man-pages
